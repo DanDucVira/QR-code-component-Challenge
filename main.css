@@ -22,17 +22,18 @@ body {
 p {
     color: hsl(216, 15%, 48%);
     font-weight: light;
+    letter-spacing: 0.2px;
 }
 
 .card-container {
     height: 482px;
-    max-width: 320px;
+    max-width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 24px;
+    padding: 15px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 10px;
+    border-radius: 20px;
     text-align: center;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
@@ -47,7 +48,7 @@ p {
 }
 
 .text-container {
-    padding: 15px 30px;
+    padding: 15px 20px;
 }
 
 .text-container h1 {
