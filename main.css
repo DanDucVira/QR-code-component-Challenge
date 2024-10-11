@@ -21,6 +21,7 @@ body {
 
 p {
     color: hsl(216, 15%, 48%);
+    font-weight: light;
 }
 
 .card-container {
@@ -46,7 +47,7 @@ p {
 }
 
 .text-container {
-    padding: 22px;
+    padding: 15px 30px;
 }
 
 .text-container h1 {
