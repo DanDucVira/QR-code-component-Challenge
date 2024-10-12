@@ -42,8 +42,9 @@ p {
     background: url(./images/image-qr-code.png);
     background-size: cover;
     background-repeat: no-repeat;
-    width: 288px;
+    max-width: 288px;
     height: 288px;
+    width:100%;
     border-radius: 10px;
 }
 
